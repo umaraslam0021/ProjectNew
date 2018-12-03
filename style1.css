@@ -1,0 +1,59 @@
+.nav-item
+{
+    margin-left: 80px;
+
+}
+.height_400{
+    height: 400px;
+}
+
+.navbar-nav li{
+    padding-right: 20px;
+    margin-block-end: 6px
+
+}
+
+.Bottom{
+    margin-bottom: 55px;
+}
+
+.main-selection{
+    margin: auto;
+    margin-top: 130px;
+    padding: 0;
+}
+.modal-content{
+    background-color: lightgray;
+    opacity: .95;
+    padding: 0 18px;
+     box-shadow: 7px 7px 6px 4px #a26565;
+
+}
+.user-img{
+    margin-top: -50px;
+    margin-bottom: 45px;
+}
+
+.user-img img{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 6px 1px dimgrey;
+}
+
+.form-group{
+    margin-bottom: 33px;
+    margin-top: 20px;
+}
+
+.form-group input{
+    height: 45px;
+    border-radius: 19px;
+    border: 0;
+    font-size: 18px;
+}
+
+.Width  input{
+    width: 40%;
+}
+
